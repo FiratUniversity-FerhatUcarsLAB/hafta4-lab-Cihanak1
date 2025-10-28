@@ -3,7 +3,7 @@
  * Ad Soyad: Cihan Akalın	
  * Ogrenci No: 250541107	
  * Tarih: 24 Ekim 2025		
- * Aciklama: Ogrenci Bilgi Sistemi (Kullanicidan alinan veriyi formatli yazdirma kodu.)
+ * Aciklama: Geometrik Hesap Kodu
  */
 
 
